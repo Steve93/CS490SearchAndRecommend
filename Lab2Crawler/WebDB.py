@@ -110,14 +110,14 @@ class WebDB(object):
 
         If there is no match, returns an None.
         """
-        sql = "SELECT id FROM Item WHERE name=%s AND type=%s"\
+        sql = "SELECT id FROM Item WHERE name='%s' AND type='%s'"\
               % (name, itemType)
         res = self.execute(sql)
         reslist = res.fetchall()
         if reslist == []:
             return None
         else:
-            return reslist[0]
+            return reslist[0][0]
             
     def lookupURLToItem(self, urlID, itemID):
         """
@@ -190,7 +190,7 @@ class WebDB(object):
             return item_id
 
         sql = """INSERT INTO Item (name, type)
-                 VALUES ('%s', '%s')""" % (self._quote(name), itemType)
+                 VALUES (\'%s\', \'%s\')""" % (self._quote(name), self._quote(itemType))
 
         res = self.execute(sql)
         return self.cur.lastrowid
@@ -207,7 +207,7 @@ class WebDB(object):
         if u2i_id is not None:
             return u2i_id
 
-        sql = """INSERT INTO Item (urlID, itemID)
+        sql = """INSERT INTO URLToItem (urlID, itemID)
                  VALUES ('%s', '%s')""" % (urlID, itemID)
 
         res = self.execute(sql)
@@ -215,4 +215,12 @@ class WebDB(object):
 
 if __name__=='__main__':
     db = WebDB('test.db')
+    urlID  = db.insertCachedURL("http://jimi.ithaca.edu/", "text/html", "JimiLab :: Ithaca College")
+    itemID = db.insertItem("JimiLab", "Research Lab")
+    u2iID  = db.insertURLToItem(urlID, itemID)
+
+    (url, docType, title) =  db.lookupCachedURL_byID(urlID);
+
+    print("Page Info: ",url,"\t" , docType,"\t", title)
+
     

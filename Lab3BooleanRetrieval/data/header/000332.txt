@@ -1,0 +1,23 @@
+Accept-Ranges: bytes
+Age: 989
+Cache-Control: public, max-age=900
+Content-Type: text/html; charset=utf-8
+Date: Tue, 10 Feb 2015 22:41:57 GMT
+ETag: "1423607130"
+Expires: Sun, 11 Mar 1984 12:00:00 GMT
+Last-Modified: Tue, 10 Feb 2015 22:25:30 +0000
+P3P: CP=HONK
+Server: 
+Vary: Cookie, Accept-Encoding
+Via: 1.1 varnish
+X-Created: Tue, 10 Feb 2015 22:25:31 GMT
+X-Req-Host: www.celinedion.com
+X-Req-Url: /ca/music/original-recordings
+X-Source-Host: drupallive
+X-V-I-TTL: 1200
+X-V-Outer: HIT
+X-V-TTL: 211
+X-Varnish: 2219139388 2219044256
+Content-Length: 47464
+Connection: Close
+

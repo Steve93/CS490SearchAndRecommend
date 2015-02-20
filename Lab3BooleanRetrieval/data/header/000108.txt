@@ -1,0 +1,15 @@
+Content-Length: 124437
+Content-Type: text/html;charset=UTF-8
+Set-Cookie: JSESSIONID=53B775E0136AFE0913143CDA7CA4E239; Path=/telegraph
+Set-Cookie: tmg_authz_session=9f4844e2-ec0c-4d5a-bfd4-026cc2b45169:node4;Version=1;Comment=;Domain=.telegraph.co.uk;Path=/;Max-Age=1563153
+Set-Cookie: tmg_web_trends=meter_viewed_count:1,meter_updated:1;Version=1;Comment=;Domain=.telegraph.co.uk;Path=/;Max-Age=3600
+Content-Language: en-GB
+Vary: Accept-Encoding
+X-UA-Compatible: IE=Edge
+ETag: 11212927-1423604845223
+Expires: Tue, 10 Feb 2015 21:47:26 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 10 Feb 2015 21:47:26 GMT
+Connection: close
+

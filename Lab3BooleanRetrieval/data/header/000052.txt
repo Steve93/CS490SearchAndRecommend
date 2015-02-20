@@ -1,0 +1,17 @@
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.5.13
+Set-Cookie: 07de27b327f63588e34d6b33c71202f1=7d8e79elt7ju5pvmkrhph5q1s4; path=/; HttpOnly
+X-Logged-In: False
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+ETag: http://www.catholiceducation.org/en/controversy/common-misconceptions/the-da-vinci-code-the-facts-behind-the-fiction.html
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 10 Feb 2015 21:41:39 GMT
+X-Varnish: 2854050
+Age: 0
+Via: 1.1 varnish (v4)
+Transfer-Encoding: chunked
+Connection: close
+Accept-Ranges: bytes
+

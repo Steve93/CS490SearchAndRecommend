@@ -1,0 +1,11 @@
+{
+  "mediaObjectSearchEngine": {
+    "defaultUrl": "http://archive.wired.com/wired/archive/12.10/tail_pr.html",
+    "useTokenizer": true,
+    "usePorterStemmer": true
+  },
+  "query": {
+    "tokenizer": "Stanford",
+    "stemmer": "Porter"
+  }
+}

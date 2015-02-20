@@ -1,0 +1,15 @@
+Date: Tue, 10 Feb 2015 22:24:28 GMT
+Server: Apache
+X-Drupal-Cache: MISS
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Tue, 10 Feb 2015 22:24:28 GMT
+Cache-Control: public, max-age=0
+ETag: "1423607068-0"
+Content-Language: en
+Link: <http://www.thebeatles.com/node/12298>; rel="shortlink",<http://www.thebeatles.com/videos/early-music-videos>; rel="canonical"
+X-Generator: Drupal 7 (http://drupal.org)
+Vary: Cookie,Accept-Encoding,User-Agent
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+

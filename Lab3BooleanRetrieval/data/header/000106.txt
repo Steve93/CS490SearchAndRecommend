@@ -1,0 +1,24 @@
+Server: nginx
+Date: Tue, 10 Feb 2015 21:47:23 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+X-Drupal-Cache: MISS
+Etag: "1423536718-1"
+X-Frame-Options: SameOrigin
+Content-Language: en
+X-UA-Compatible: IE=edge,chrome=1
+X-Generator: Drupal 7 (http://drupal.org)
+Link: </node/1253145>; rel="shortlink",</book-reviews/watership-down>; rel="canonical"
+Cache-Control: public, max-age=86400
+Last-Modified: Tue, 10 Feb 2015 02:51:58 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie,Accept-Encoding
+X-Request-ID: v-c79efa92-b0cf-11e4-9ae2-12313d1566a6
+X-AH-Environment: prod
+X-Varnish: 1134186838 1132664478
+Age: 68123
+Via: 1.1 varnish
+X-Cache: HIT
+X-Cache-Hits: 25
+

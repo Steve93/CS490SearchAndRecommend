@@ -1,0 +1,22 @@
+Server: Apache
+X-Content-Type-Options: nosniff
+Content-language: en
+X-Backend-Response-Time: 0.220
+ETag: "20150203200022-1423500507"
+Last-Modified: Tue, 03 Feb 2015 20:00:22 GMT
+Content-Type: text/html; charset=utf-8
+X-Cacheable: YES
+Content-Length: 199870
+Accept-Ranges: bytes
+Date: Tue, 10 Feb 2015 21:46:00 GMT
+Age: 43393
+Connection: close
+X-Served-By: ap-s45, cache-wk-sjc3161-WKSJC, cache-atl6228-ATL
+X-Cache: ORIGIN, HIT, HIT
+X-Cache-Hits: ORIGIN, 6, 1
+X-Timer: S1423604760.123869,VS0,VE2
+Vary: Accept-Encoding,Cookie
+Set-Cookie: wikia_beacon_id=DrSrbS_Byb; domain=.wikia.com; path=/; expires=Sun, 09 Aug 2015 21:46:00 GMT;
+Set-Cookie: Geo={%22city%22:%22FIXME%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+

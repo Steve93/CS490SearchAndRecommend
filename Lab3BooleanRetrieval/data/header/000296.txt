@@ -1,0 +1,10 @@
+Server: nginx
+Date: Tue, 10 Feb 2015 22:37:51 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+X-Pingback: http://www.greenqueenmusic.com/xmlrpc.php
+Link: <http://www.greenqueenmusic.com/>; rel=shortlink
+Set-Cookie: wfvt_2518021040=54da883f823ff; expires=Tue, 10-Feb-2015 23:07:51 GMT; path=/; httponly
+X-Powered-By: PleskLin
+

@@ -1,0 +1,24 @@
+Server: nginx
+Date: Tue, 10 Feb 2015 22:13:25 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+X-Drupal-Cache: MISS
+Etag: "1423533961-1"
+X-Frame-Options: SameOrigin
+Content-Language: en
+X-UA-Compatible: IE=edge,chrome=1
+X-Generator: Drupal 7 (http://drupal.org)
+Link: </node/1261998>; rel="shortlink",</movie-reviews/toy-story-3>; rel="canonical"
+Cache-Control: public, max-age=86400
+Last-Modified: Tue, 10 Feb 2015 02:06:01 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie,Accept-Encoding
+X-Request-ID: v-5cafe684-b0c9-11e4-86a3-12313d1566a6
+X-AH-Environment: prod
+X-Varnish: 1134235423 1132582955
+Age: 72440
+Via: 1.1 varnish
+X-Cache: HIT
+X-Cache-Hits: 27
+

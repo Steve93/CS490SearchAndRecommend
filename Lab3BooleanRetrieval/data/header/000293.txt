@@ -1,0 +1,13 @@
+Date: Tue, 10 Feb 2015 22:36:50 GMT
+Server: gwiseguy/2.0
+X-XSS-Protection: 1; mode=block; report=https://www.google.com/appserve/security-bugs/log/youtube
+Expires: Tue, 27 Apr 1971 19:44:06 EST
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Alternate-Protocol: 443:quic,p=0.02
+Accept-Ranges: none
+Vary: Accept-Encoding
+Connection: close
+

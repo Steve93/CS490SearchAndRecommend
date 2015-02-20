@@ -1,0 +1,22 @@
+Last-Modified: Tue, 10 Feb 2015 22:18:34 GMT
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=31536000
+x-apple-translated-wo-url: /WebObjects/MZStore.woa/wa/viewMovie?id=567661493&cc=us&urlDesc=/the-dark-knight-rises
+x-apple-orig-url: https://itunes.apple.com/us/movie/the-dark-knight-rises/id567661493
+x-apple-application-site: ST11
+apple-timing-app: 426 ms
+x-apple-aka-ttl: Generated Tue Feb 10 14:18:34 PST 2015, Expires Tue Feb 10 14:19:34 PST 2015, TTL 60s
+x-apple-application-instance: 2125386
+Content-Type: text/html; charset=UTF-8
+x-webobjects-loadaverage: 0
+x-apple-jingle-correlation-key: RJECQAZ6BSK5MMUWSU6EXAD5YQ
+Server: ATS/4.1.0
+X-Apple-ATS-Cache-Key: /17.173.38.164/80/us/movie/the-dark-knight-rises/id567661493/iDevice/https
+Vary: Accept-Encoding
+Cache-Control: no-transform, max-age=60
+Date: Tue, 10 Feb 2015 22:18:34 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+X-Apple-Partner: origin.0
+

@@ -1,0 +1,27 @@
+X-Drupal-Cache: MISS
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Tue, 10 Feb 2015 21:46:14 +0000
+Cache-Control: public, max-age=3600
+ETag: "1423604774-1"
+Content-Language: en
+X-Generator: Drupal 7 (http://drupal.org)
+Link: </article/58698/16-facts-about-lion-witch-and-wardrobe>; rel="canonical",</node/58698>; rel="shortlink"
+Vary: Cookie,Accept-Encoding
+Access-Control-Allow-Origin: *
+P3P: CP="OTI DSP COR CUR ADM DEV OUR IND", policyref="/w3c/p3p.xml"
+Content-Type: text/html; charset=utf-8
+X-Cacheable: YES
+X-Varnish: 684599574
+Age: 0
+Via: 1.1 varnish
+x-Cache: uncached
+Content-Length: 88405
+Accept-Ranges: bytes
+Date: Tue, 10 Feb 2015 21:46:15 GMT
+X-Varnish: 1852690703
+Age: 0
+Via: 1.1 varnish
+Connection: close
+X-proxy: i18n-US
+X-backend: us
+

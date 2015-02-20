@@ -1,0 +1,21 @@
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+p3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Access-Control-Allow-Origin: *
+X-AspNetMvc-Version: 4.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 10 Feb 2015 22:22:41 GMT
+X-Varnish: 1020546623
+Age: 0
+Via: 1.1 varnish-v4
+X-Varnish-Host: varnish03
+X-Client-IP: 76.78.3.125
+Vary: User-Agent
+X-Defy-CountryCode: US
+Set-Cookie: df_c=1|df_dd=1|df_device=desktop|df_platform=desktop|df_ss=1|df_s=19;Max-Age=1209600; Path=/ ;
+Transfer-Encoding: chunked
+Connection: close
+Accept-Ranges: bytes
+

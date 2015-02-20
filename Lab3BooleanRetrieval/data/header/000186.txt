@@ -1,0 +1,11 @@
+Cache-Control: private
+Content-Length: 90377
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 2.0.50727
+x-frame-options: SAMEORIGIN
+Set-Cookie: ASP.NET_SessionId=t3nsj1554cst1dvhutwagizy; path=/; HttpOnly
+Set-Cookie: TNOW3SessionCookie=1689188669#1c721dd2-40ca-4278-82d2-a34a23268d89; domain=.ticketsnow.com; expires=Wed, 10-Feb-2016 22:21:04 GMT; path=/; HttpOnly
+X-UA-Compatible: IE=EmulateIE7
+Date: Tue, 10 Feb 2015 22:21:04 GMT
+

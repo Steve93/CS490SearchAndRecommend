@@ -1,0 +1,12 @@
+Date: Tue, 10 Feb 2015 21:46:55 GMT
+Server: Apache
+expires: Thu, 01 Dec 1994 16:00:00 GMT
+cache-control: no-cache
+pragma: no-cache
+Set-cookie: adxcs=-; path=/; domain=.nytimes.com
+X-API-Version: 4
+Vary: Host
+Content-Length: 13131
+Connection: close
+Content-Type: text/html
+

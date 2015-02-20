@@ -1,0 +1,18 @@
+Date: Tue, 10 Feb 2015 22:28:36 GMT
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+X-Yahoo-Request-Id: 0ehmntladl1gk
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=utf-8
+X-Cache: MISS from ncache10.global.media.bf1.yahoo.com-2
+X-Cache-Lookup: MISS from ncache10.global.media.bf1.yahoo.com-2:3128
+X-Cache: MISS from ncache10.global.media.bf1.yahoo.com
+X-Cache-Lookup: MISS from ncache10.global.media.bf1.yahoo.com:4080
+Via: 1.1 ncache10.global.media.bf1.yahoo.com-2:3128 (squid/2.7.STABLE9), 1.1 ncache10.global.media.bf1.yahoo.com:4080 (squid/2.7.STABLE9), http/1.1 media-border48.global.media.bf1.yahoo.com (ApacheTrafficServer [cMsSfW]), http/1.1 r02.ycpi.nyc.yahoo.net (ApacheTrafficServer [cMsSf ])
+Server: ATS
+Cache-Control: max-age=0, private
+Expires: -1
+Strict-Transport-Security: max-age=172800
+Age: 2
+Transfer-Encoding: chunked
+Connection: close
+

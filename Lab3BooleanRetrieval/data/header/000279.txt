@@ -1,0 +1,17 @@
+Server: nginx
+Vary: Accept-Encoding,Cookie
+X-Cacheable: SHORT
+Cache-Control: max-age=600, must-revalidate
+X-Cache: MISS
+Content-Type: text/html; charset=UTF-8
+X-Cache-Group: normal
+Date: Tue, 10 Feb 2015 22:33:05 GMT
+X-Pingback: http://www.eltonjohn.com/xmlrpc.php
+Keep-Alive: timeout=20
+Link: <http://www.eltonjohn.com/?p=237>; rel=shortlink
+X-Type: default
+Transfer-Encoding: chunked
+Connection: close
+X-Pass-Why: 
+Set-Cookie: X-Mapping-fjhppofk=E3DD15249290BB11D2124963E04E7824; path=/
+

@@ -1,0 +1,19 @@
+Server: CherryPy/3.6.0
+Expires: Sun, 28 Jan 2007 00:00:00 GMT
+Content-Type: text/html;charset=utf-8
+Pragma: no-cache
+Cache-Control: no-cache, must-revalidate
+Content-Language: en
+Vary: Accept-Encoding
+Set-Cookie: session_id=21ec4af240b5f3f6c1c1a2e70f2be1bd443402ac; Domain=.gutenberg.org; expires=Tue, 10 Feb 2015 22:15:38 GMT; Path=/
+Accept-Ranges: none
+X-Frame-Options: sameorigin
+X-Connection: Close
+X-Powered-By: 3
+Content-Length: 23157
+Date: Tue, 10 Feb 2015 21:45:38 GMT
+X-Varnish: 1504931463
+Age: 0
+Via: 1.1 varnish
+Connection: close
+

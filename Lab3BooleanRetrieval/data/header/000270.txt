@@ -1,0 +1,25 @@
+Accept-Ranges: bytes
+Age: 46
+Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Date: Tue, 10 Feb 2015 22:28:38 GMT
+ETag: "1423607271"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Tue, 10 Feb 2015 22:27:51 +0000
+Link: <http://www.michaeljackson.com/us/home>; rel="canonical",<http://www.michaeljackson.com/us/home>; rel="shortlink"
+Server: 
+Vary: Accept-Encoding
+Via: 1.1 varnish
+X-Created: Tue, 10 Feb 2015 22:27:52 GMT
+X-Generator: Drupal 7 (http://drupal.org)
+X-Req-Host: www.michaeljackson.com
+X-Req-Url: /us/
+X-UA-Compatible: IE=edge,chrome=1
+X-V-I-TTL: 1200
+X-V-Outer: HIT
+X-V-TTL: 1154
+X-Varnish: 610076721 610075090
+Content-Length: 25730
+Connection: Close
+

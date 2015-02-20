@@ -1,0 +1,13 @@
+Accept-Ranges: bytes
+Accept-Ranges: bytes
+Content-Type: text/html;charset=UTF-8
+ETag: W/"56001a-23926-50ec2d2679000"
+Last-Modified: Tue, 10 Feb 2015 21:46:40 GMT
+Server: Apache/2.2.29 (Amazon)
+X-Varnish: 1108445205
+Content-Length: 145702
+Cache-Control: private, must-revalidate, max-age=450
+Expires: Tue, 10 Feb 2015 21:54:11 GMT
+Date: Tue, 10 Feb 2015 21:46:41 GMT
+Connection: close
+

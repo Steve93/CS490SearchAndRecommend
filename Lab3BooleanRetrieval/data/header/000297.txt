@@ -1,0 +1,14 @@
+Date: Tue, 10 Feb 2015 22:37:01 GMT
+Server: Apache
+Cache-Control: no-cache
+Cache-Control: no-store
+Cache-Control: max-age=0
+Cache-Control: must-revalidate
+Pragma: no-cache
+Expires: Tue, 10 Feb 2015 22:37:01 GMT
+P3P: CP="This is not a P3P policy. See http://www.queenonlinestore.com/help/#dataprivacy for our privacy policy and information on how we store, collect and use data about you."
+Content-Length: 59871
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html;charset=UTF-8
+

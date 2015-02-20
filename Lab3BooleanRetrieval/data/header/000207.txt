@@ -1,0 +1,14 @@
+Date: Tue, 10 Feb 2015 22:23:01 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=dc513683495e4c39064df3ff420cbf84c1423606981; expires=Wed, 10-Feb-16 22:23:01 GMT; path=/; domain=.jurassicworldnews.com; HttpOnly
+X-Powered-By: PHP/5.3.26
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: scified=99e966834171ddd217b4173319fc9b42; path=/; domain=.jurassicworldnews.com
+Vary: Accept-Encoding
+Server: cloudflare-nginx
+CF-RAY: 1b6bb572a2ef1858-EWR
+

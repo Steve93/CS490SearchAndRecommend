@@ -1,0 +1,13 @@
+Server: Apache/2.2.22 (Unix)
+X-Web-Node: www108
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Expires: Tue, 10 Feb 2015 22:25:06 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 10 Feb 2015 22:25:06 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: AnonTrack=3cb0ec7fd7dc778e19ac4d7ee59558a3; expires=Fri, 05-Feb-2016 22:25:06 GMT; path=/; domain=.last.fm
+

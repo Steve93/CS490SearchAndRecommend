@@ -1,0 +1,10 @@
+Date: Tue, 10 Feb 2015 21:45:23 GMT
+Server: Squeegit/1.2.5 (3_sir)
+Set-Cookie: CookieStatus=COOKIE_OK; path=/; domain=angelfire.lycos.com; expires=Wed, 10-Feb-2016 21:45:23 GMT
+Vary: *
+X-Server-IP: 209.202.245.146
+P3P: policyref="http://www.lycos.com/w3c/p3p.xml", CP="IDC DSP COR CURa ADMa DEVa CUSa PSAa IVAa CONo OUR IND UNI STA"
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+

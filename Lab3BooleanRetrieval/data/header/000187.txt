@@ -1,0 +1,19 @@
+Server: Apache
+Strict-Transport-Security: max-age=631138520; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block; report=/beacon/csp.php
+X-Content-Type-Options: nosniff
+X-Recruiting: Is code your craft? https://www.etsy.com/careers
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: private, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+X-Cnection: close
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Date: Tue, 10 Feb 2015 22:18:52 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: uaid=uaid%3DCpJQHluthX-IOUeL37aAvimIOUhl%26_now%3D1423606731%26_slt%3DpypPZqzO%26_kid%3D1%26_ver%3D1%26_mac%3D_ZDD_wZaRVH6B4EOi5v0d6K4L7Xp4rEQjugnioyd_48.; expires=Sat, 12-Mar-2016 14:37:11 GMT; Max-Age=34186700; path=/; domain=.etsy.com; httponly
+Set-Cookie: fve=1423606731.0; expires=Sat, 12-Mar-2016 14:37:11 GMT; Max-Age=34186700; path=/; domain=.etsy.com
+Set-Cookie: user_prefs=1&2596706699&q0tPzMlJLaoEAA==; expires=Wed, 10-Feb-2016 22:18:51 GMT; Max-Age=31536000; path=/; domain=.etsy.com
+

@@ -1,0 +1,15 @@
+Date: Tue, 10 Feb 2015 22:23:19 GMT
+Server: LiteSpeed
+Accept-Ranges: bytes
+Connection: close
+ETag: "177b6-54da7723-0"
+Last-Modified: Tue, 10 Feb 2015 21:24:51 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 96182
+X-Pingback: http://screenrant.com/xmlrpc.php
+Vary: Accept-Encoding, Cookie
+Pragma: public
+Cache-Control: public
+Cache-Control: public, max-age=92
+Expires: Tue, 10 Feb 2015 22:24:51 GMT
+

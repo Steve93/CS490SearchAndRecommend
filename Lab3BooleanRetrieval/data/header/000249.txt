@@ -1,0 +1,17 @@
+Server: Apache/2.2.15 (Red Hat)
+Content-Length: 110738
+Content-Type: text/html; charset=utf-8
+X-Powered-By: eZ Publish
+Vary: Accept-Encoding
+ezp-published: 1357251506
+ezp-class: csm_article
+ezp-remote_id: 39cc4a655fa98adc12b26fb85f110006
+ezp-is_archive: 0
+Content-Language: en-US
+Served-by: 
+Pragma: 
+Cache-Control: max-age=3557
+Expires: Tue, 10 Feb 2015 23:24:06 GMT
+Date: Tue, 10 Feb 2015 22:24:49 GMT
+Connection: close
+

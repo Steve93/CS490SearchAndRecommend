@@ -1,0 +1,22 @@
+Last-Modified: Tue, 10 Feb 2015 22:24:20 GMT
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=31536000
+x-apple-translated-wo-url: /WebObjects/MZStore.woa/wa/viewArtist?id=136975&cc=us&urlDesc=/the-beatles
+x-apple-orig-url: https://itunes.apple.com/us/artist/the-beatles/id136975
+x-apple-application-site: ST11
+apple-timing-app: 1047 ms
+x-apple-aka-ttl: Generated Tue Feb 10 14:24:20 PST 2015, Expires Tue Feb 10 14:25:20 PST 2015, TTL 60s
+x-apple-application-instance: 2000406
+Content-Type: text/html; charset=UTF-8
+x-webobjects-loadaverage: 0
+x-apple-jingle-correlation-key: JA5QOEGEDYMWIWKDE2FWJ62RWA
+Server: ATS/4.1.0
+X-Apple-ATS-Cache-Key: /17.173.38.164/80/us/artist/the-beatles/id136975/iDevice/https
+Vary: Accept-Encoding
+Cache-Control: no-transform, max-age=60
+Date: Tue, 10 Feb 2015 22:24:20 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+X-Apple-Partner: origin.0
+

@@ -1,0 +1,15 @@
+Expires: Wed, 31 Dec 1969 00:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-FRAME-OPTIONS: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Vary: Accept-Encoding
+Date: Tue, 10 Feb 2015 21:45:56 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: pds%5Flife=d=AQBTH%2BhFarXUr9O%2FrPdDIn%2BVuTcgNvHke%2B81INHa9DYbxIAUO%2Bit%2B%2F5vkT1m%2B2zrc4k%3D&v=5;Path=/;Domain=.barnesandnoble.com;Expires=Sun, 09-Feb-2020 21:45:56 GMT
+Set-Cookie: SSLB=0;path=/;domain=.barnesandnoble.com;
+Set-Cookie: TS019fd21a=016b4a666eb0df8f945245003d0cd5c161cd216758e107162920565fbf33c6700f243f7a32; Path=/
+Set-Cookie: TS01a610f6=016b4a666ee6a0a025042475a302b7b24ffa184434185f02f5c34856845311ff39fba96e94da6667c2ee6970d6bb6c3062b88d455bc41d3251d00d05c461702c9d2097e6bdfbb3a88e585d4f6f6942be0d9f67ccf96ac36eb1d9d69f98d60e33d684cf4926; path=/; domain=.barnesandnoble.com
+

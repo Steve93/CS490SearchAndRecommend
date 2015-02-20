@@ -1,0 +1,21 @@
+Server: Apache
+X-Content-Type-Options: nosniff
+Content-language: en
+X-Backend-Response-Time: 0.295
+ETag: "20150126005416-1423500507"
+Last-Modified: Mon, 26 Jan 2015 00:54:16 GMT
+Content-Type: text/html; charset=utf-8
+X-Cacheable: YES
+Content-Length: 109120
+Accept-Ranges: bytes
+Date: Tue, 10 Feb 2015 22:23:55 GMT
+Age: 77289
+Connection: close
+X-Served-By: ap-s15, cache-wk-sjc3160-WKSJC, cache-atl6234-ATL
+X-Cache: ORIGIN, MISS, HIT
+X-Cache-Hits: ORIGIN, 0, 1
+X-Timer: S1423607035.580003,VS0,VE0
+Vary: Accept-Encoding,Cookie
+Set-Cookie: Geo={%22city%22:%22FIXME%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+

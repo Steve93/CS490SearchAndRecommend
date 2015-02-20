@@ -1,0 +1,15 @@
+Server: Apache-Coyote/1.1
+RlogId: t6awipp%60c%7Fs%3F%3Ctof3e34e*77d7-vrubqst-vjd-%60dfz%2Behn-14b7574c1b4-0x9f
+Vary: User-Agent
+Set-Cookie: JSESSIONID=9215F3755A1FB2C1A7CDBFC7039FA7EF; Path=/; HttpOnly
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: ebay=%5Esbf%3D%23%5E;Domain=.ebay.com;Path=/ 
+Set-Cookie: dp1=bu1p/QEBfX0BAX19AQA**56bbaf99^bl/US589ce319^;Domain=.ebay.com;Expires=Thu, 09-Feb-2017 21:46:01 GMT;Path=/ 
+Set-Cookie: s=CgAD4ACBU282ZNzU3NGMxYWExNGIwYTc4N2IzZmY5YmNhZmZkODk5MjCB1mew;Domain=.ebay.com;Path=/; HttpOnly 
+Set-Cookie: nonsession=CgADLAAFU2oMhMQDKACBeQH2ZNzU3NGMxYWExNGIwYTc4N2IzZmY5YmNhZmZkODk5MjDnU0gf;Domain=.ebay.com;Expires=Wed, 10-Feb-2016 21:46:01 GMT;Path=/ 
+Set-Cookie: lucky9=9632937;Domain=.ebay.com;Expires=Sun, 09-Feb-2020 21:46:01 GMT;Path=/ 
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Transfer-Encoding: chunked
+Date: Tue, 10 Feb 2015 21:46:00 GMT
+

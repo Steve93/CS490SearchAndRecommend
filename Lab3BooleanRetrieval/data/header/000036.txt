@@ -1,0 +1,24 @@
+Server: nginx
+Date: Tue, 10 Feb 2015 21:46:09 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+X-Drupal-Cache: MISS
+Etag: "1423553972-1"
+X-Frame-Options: SameOrigin
+Content-Language: en
+X-UA-Compatible: IE=edge,chrome=1
+X-Generator: Drupal 7 (http://drupal.org)
+Link: </node/3817831>; rel="shortlink",</book-reviews/and-then-there-were-none>; rel="canonical"
+Cache-Control: public, max-age=86400
+Last-Modified: Tue, 10 Feb 2015 07:39:32 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie,Accept-Encoding
+X-Request-ID: v-f3f7e716-b0f7-11e4-9a1e-12313d1566a6
+X-AH-Environment: prod
+X-Varnish: 1134184538 1133005994
+Age: 50795
+Via: 1.1 varnish
+X-Cache: HIT
+X-Cache-Hits: 18
+

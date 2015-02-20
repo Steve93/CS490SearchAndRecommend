@@ -1,0 +1,9 @@
+Date: Tue, 10 Feb 2015 22:18:54 GMT
+Server: Apache
+X-Pingback: http://stories-of-london.org/xmlrpc.php
+Link: <http://stories-of-london.org/?p=11147>; rel=shortlink
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
